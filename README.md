@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello there 👋
 
-Here are some ideas to get you started:
 
 - 🍁 I am a student from Canada who is interested in programming 
 - ☕ I’m currently learning Java and C++
